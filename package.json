@@ -1,6 +1,6 @@
 {
   "name": "tweet-location",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Returns a latitude and longitude from a Twitter place ID",
   "main": "index.js",
   "scripts": {
