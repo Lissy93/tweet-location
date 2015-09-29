@@ -1,10 +1,9 @@
 
 # tweet-location
 
-[![Build Status](https://travis-ci.org/Lissy93/tweet-location.svg?branch=dev)](https://travis-ci.org/Lissy93/remove-words)
+[![Build Status](https://travis-ci.org/Lissy93/remove-words.svg?branch=master)](https://travis-ci.org/Lissy93/remove-words)
 [![Dependency Status](https://david-dm.org/lissy93/tweet-location.svg)](https://david-dm.org/lissy93/remove-words)
-[![devDependency Status](https://david-dm.org/lissy93/tweet-location/dev-status.svg)](https://david-dm.org/lissy93/remove-words#info=devDependencies)
-[![Code Climate](https://codeclimate.com/github/Lissy93/tweet-location/badges/gpa.svg)](https://codeclimate.com/github/Lissy93/tweet-location)
+[![devDependency Status](https://david-dm.org/lissy93/remove-words/dev-status.svg)](https://david-dm.org/lissy93/remove-words#info=devDependencies)
 
 >Returns a place object including latitude and longitude from a Twitter place ID
 
